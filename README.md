@@ -32,18 +32,69 @@ Built on 5 papers including:
 - Feature stores (Orr, 2021)
 - Big data in RDBMS (2022)
 
-## ▶️ How to Run
-1. Clone repo: `git clone https://github.com/Raphlawren/Database-Management-System-Tools.git`
-2. Install dependencies: `pip install -r requirements.txt`
-3. Explore notebooks in `notebooks/` to replicate experiments.
 
 ## 📊 Scoring Outcomes
-| Tool/Model | Accuracy | Runtime | Infrastructure | Reproducibility | Total Score |
-|------------|----------|---------|----------------|-----------------|-------------|
-| LASSO | 84/100 | Best balance | | | |
-| MLflow | 58/60 | Excellent tracking | | | |
-| Feast | 70/80 | Fast retrieval | | | |
-| Pinecone | 71/80 | ANN search | | | |
+Tool/Model
+Accuracy
+(20)
+Runtime
+(20)
+Reduction
+(20)
+Infrastructure Fit (20)
+Reproducibility (20)
+Retrieval
+Speed
+(20)
+Total Score
+Chi2
+17
+20
+19
+13
+14
+-
+83/100
+LASSO
+18
+18
+18
+14
+16
+-
+84/100
+PSO
+19
+9
+10
+12
+15
+-
+65/100
+MLflow
+-
+20
+-
+18
+20
+-
+58/60
+Feast
+-
+17
+-
+17
+19
+17
+70/80
+Pinecone
+-
+15
+-
+20
+16
+20
+71/80
 
 ---
 

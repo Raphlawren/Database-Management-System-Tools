@@ -34,68 +34,20 @@ Built on 5 papers including:
 
 
 ## 📊 Scoring Outcomes
-Tool/Model
-Accuracy
-(20)
-Runtime
-(20)
-Reduction
-(20)
-Infrastructure Fit (20)
-Reproducibility (20)
-Retrieval
-Speed
-(20)
-Total Score
-Chi2
-17
-20
-19
-13
-14
--
-83/100
-LASSO
-18
-18
-18
-14
-16
--
-84/100
-PSO
-19
-9
-10
-12
-15
--
-65/100
-MLflow
--
-20
--
-18
-20
--
-58/60
-Feast
--
-17
--
-17
-19
-17
-70/80
-Pinecone
--
-15
--
-20
-16
-20
-71/80
 
----
+Below is the comparative score table for all evaluated tools and models.  
+Each method was scored across key metrics: Accuracy, Runtime, Feature Reduction, Infrastructure Fit, Reproducibility, and Retrieval Speed.
+
+| Tool / Model | Accuracy (20) | Runtime (20) | Reduction (20) | Infrastructure Fit (20) | Reproducibility (20) | Retrieval Speed (20) | **Total Score** |
+|--------------|---------------|--------------|----------------|--------------------------|-----------------------|----------------------|-----------------|
+| **Chi‑Square (Filter FS)** | 17 | 20 | 19 | 13 | 14 | – | **83 / 100** |
+| **LASSO (Embedded FS)** | 18 | 18 | 18 | 14 | 16 | – | **84 / 100** |
+| **PSO (Wrapper FS)** | 19 | 9 | 10 | 12 | 15 | – | **65 / 100** |
+| **MLflow** | – | – | – | 18 | 20 | – | **58 / 60** |
+| **Feast (Feature Store)** | – | – | – | 17 | 19 | 17 | **70 / 80** |
+| **Pinecone (Vector DB)** | – | – | – | 20 | 16 | 20 | **71 / 80** |
+
+
+
 
 📎 **Linked Paper:** [Quantitative Analysis PDF](https://docs.google.com/document/d/1HNPK9bbwFek4TB4mbtCXFit6HCxBlQoKzFH8kwhvqjo/edit?usp=drivesdk)

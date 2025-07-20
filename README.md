@@ -1,7 +1,7 @@
 # Database-Management-System Technologies
 
  ✨ Overview
-This project implements and compares five research-backed database and ML tools on the Brazilian Higher Education Census dataset (658,877 rows, 189 features):
+This project implements and compares five research-backed database and ML tools on the Brazilian Higher Education Census dataset (658,877 rows, 202 features):
 - **Feature Selection (Chi2, LASSO, PSO)**
 - **MLflow** for experiment tracking
 - **Feast** for feature storage and retrieval
